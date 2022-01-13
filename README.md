@@ -1,3 +1,3 @@
-#kokoa Clone 20202 Study
+# kokoa Clone 20202 Study
 
-CSS got so much better!
+HTML & CSS are so much fun
